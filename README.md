@@ -7,7 +7,7 @@ Welcome to my portfolio website showcasing my projects, skills in full-stack dev
 ---
 
 ## 🌐 Live Website
-👉 https://harshini-ramamoorthi.github.io/
+👉 https://hcodelab.netlify.app/
 
 ---
 
